@@ -1,2 +1,2 @@
 # ZombiesKillGame
-Zombies killing Game is using Advanced Computer Vision techniques and later on it will be update with Radar for Measuring accurate distance.
+Zombies killing Game is using Advanced Computer Vision techniques and with Radar for Measuring accurate distance. Bytime It's Private due to some ...........
